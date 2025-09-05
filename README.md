@@ -21,9 +21,9 @@
 
 ## 📚 Course Overview
 
-**Complete C Programming Handbook** ek comprehensive guide hai jo beginners se advanced programmers tak ke liye banaya gaya hai. Yeh course C programming ki saari concepts ko cover karta hai - basic se advanced level tak, practical examples ke saath.
+**Complete C Programming Handbook** is a comprehensive guide designed for beginners to advanced programmers. This course covers all C programming concepts from basic to advanced level with practical examples.
 
-### 🎯 **कोर्स अवलोकन:**
+### 🎯 **Course Overview:**
 - ✅ **60+ Detailed Lessons** - Basic se Advanced tak
 - ✅ **200+ Code Examples** - Har concept ke liye practical examples
 - ✅ **130+ Practice Problems** - From basic to advanced algorithms
@@ -41,7 +41,7 @@
 
 ## 🎯 Course Structure
 
-### 🌟 **BASIC MODULE (Lessons 1-15)** - Beginners ke liye
+### 🌟 **BASIC MODULE (Lessons 1-15)** - For Beginners
 | Module | Topics | Duration | Difficulty |
 |--------|--------|----------|------------|
 | **Foundation** | Environment Setup & First Program | 2-3 hours | ⭐ Beginner |
@@ -184,7 +184,6 @@ cd projects
 
 int main() {
     printf("Hello, C Programming! \\n");
-    printf("Namaste, C Programming! \\n");
     printf("Welcome to learning C from scratch! \\n");
     return 0;
 }
