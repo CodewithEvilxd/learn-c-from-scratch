@@ -1,0 +1,44 @@
+[22:07:31] INFO: Starting Blockchain Voting System
+[22:07:31] INFO: Initializing system components
+[22:07:31] INFO: Blockchain created with genesis block
+[22:07:31] INFO: System initialization complete
+[22:07:31] INFO: Cleaning up system components
+[22:07:31] INFO: Blockchain destroyed
+[22:07:31] INFO: System cleanup complete
+[22:07:31] INFO: Blockchain Voting System shutdown complete
+[22:07:47] INFO: Starting Blockchain Voting System
+[22:07:47] INFO: Initializing system components
+[22:07:47] INFO: Blockchain created with genesis block
+[22:07:47] INFO: System initialization complete
+[22:07:47] INFO: Cleaning up system components
+[22:07:47] INFO: Blockchain destroyed
+[22:07:47] INFO: System cleanup complete
+[22:07:47] INFO: Blockchain Voting System shutdown complete
+[22:08:00] INFO: Starting Blockchain Voting System
+[22:08:00] INFO: Initializing system components
+[22:08:00] INFO: Blockchain created with genesis block
+[22:08:00] INFO: System initialization complete
+[22:08:17] INFO: Starting Blockchain Voting System
+[22:08:17] INFO: Initializing system components
+[22:08:17] INFO: Blockchain created with genesis block
+[22:08:17] INFO: System initialization complete
+[22:08:17] INFO: Cleaning up system components
+[22:08:17] INFO: Blockchain destroyed
+[22:08:17] INFO: System cleanup complete
+[22:08:17] INFO: Blockchain Voting System shutdown complete
+[22:36:24] INFO: Starting Blockchain Voting System
+[22:36:24] INFO: Initializing system components
+[22:36:24] INFO: Blockchain created with genesis block
+[22:36:24] INFO: System initialization complete
+[22:36:24] ERROR: Command execution failed
+[22:36:24] INFO: Cleaning up system components
+[22:36:24] INFO: Blockchain destroyed
+[22:36:24] INFO: System cleanup complete
+[22:36:44] INFO: Starting Blockchain Voting System
+[22:36:44] INFO: Initializing system components
+[22:36:44] INFO: Blockchain created with genesis block
+[22:36:44] INFO: System initialization complete
+[22:36:44] INFO: Cleaning up system components
+[22:36:44] INFO: Blockchain destroyed
+[22:36:44] INFO: System cleanup complete
+[22:36:44] INFO: Blockchain Voting System shutdown complete
